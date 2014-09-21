@@ -1,0 +1,27 @@
+Names seem to be 54 bytes apart 
+
+"NONE" + 06 19 before lowercase Host Name
+
+Has 02 06 1? before proper Host Name
+
+22 bytes between proper name and host name
+
+They consist of 04 00 04 ?? 02 01 05 41 
+
+Proper Host Name is followed by 04 01 01 0A 09 09 ## number of ppl on team 2 01,03,05,07,09,0B
+	0, 1, 2, 3, 4, 5
+
+and preceded by 04 00 04 00 02 06 ??		
+
+Game Name is preceded by 00 01 06 ??
+Game Name is followed by 04 81 34 01 0A 09 09 ## ppl in team 1 (see table above)
+
+08453E1E is address of host name 
+
+086EB577 has similar memory 
+0C9AE824 has wins
+
+19 17
+1D 1F
+13 0B
+0F

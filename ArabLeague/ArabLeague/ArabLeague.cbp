@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ArabLeague" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\ArabLeague" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="lib\libcurl.a" />
+					<Add library="lib\libcrypto.a" />
+					<Add library="lib\libcurldll.a" />
+					<Add library="lib\libeay32.a" />
+					<Add library="lib\libidn.a" />
+					<Add library="lib\libidn.dll.a" />
+					<Add library="lib\librtmp.a" />
+					<Add library="lib\libssh2.a" />
+					<Add library="lib\libssh2dll.a" />
+					<Add library="lib\libssl32.a" />
+					<Add library="lib\libssl.a" />
+					<Add library="lib\libz.a" />
+					<Add library="lib\libzdll.a" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\ArabLeague" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="main.cpp" />
+		<Unit filename="resources.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

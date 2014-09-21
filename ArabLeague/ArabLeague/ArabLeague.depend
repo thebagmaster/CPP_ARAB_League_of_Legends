@@ -1,0 +1,166 @@
+# depslib dependency file v1.0
+1334966094 source:c:\documents and settings\owner\my documents\arableague\arableague\main.cpp
+	<iostream>
+	<windows.h>
+	"curl\curl.h"
+
+1331937656 c:\documents and settings\owner\my documents\arableague\arableague\curl\curl.h
+	"curlver.h"
+	"curlbuild.h"
+	"curlrules.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+
+1332445850 c:\documents and settings\owner\my documents\arableague\arableague\curl\curlver.h
+
+1332445850 c:\documents and settings\owner\my documents\arableague\arableague\curl\curlbuild.h
+	<sys/types.h>
+	<sys/socket.h>
+
+1300551433 c:\documents and settings\owner\my documents\arableague\arableague\curl\curlrules.h
+
+1320449575 c:\documents and settings\owner\my documents\arableague\arableague\curl\easy.h
+
+1300551367 c:\documents and settings\owner\my documents\arableague\arableague\curl\multi.h
+	"curl.h"
+
+1331238924 c:\documents and settings\owner\my documents\arableague\arableague\curl\typecheck-gcc.h
+
+1335454056 source:g:\arableague\arableague\main.cpp
+	<iostream>
+	<windows.h>
+	<winver.h>
+	"curl\curl.h"
+
+1331934056 g:\arableague\arableague\curl\curl.h
+	"curlver.h"
+	"curlbuild.h"
+	"curlrules.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+
+1332442250 g:\arableague\arableague\curl\curlver.h
+
+1332442250 g:\arableague\arableague\curl\curlbuild.h
+	<sys/types.h>
+	<sys/socket.h>
+
+1300547834 g:\arableague\arableague\curl\curlrules.h
+
+1320445976 g:\arableague\arableague\curl\easy.h
+
+1300547768 g:\arableague\arableague\curl\multi.h
+	"curl.h"
+
+1331238924 g:\arableague\arableague\curl\typecheck-gcc.h
+
+1335129990 source:d:\arableague\arableague\main.cpp
+	<iostream>
+	<windows.h>
+	<winver.h>
+	"curl\curl.h"
+
+1331937656 d:\arableague\arableague\curl\curl.h
+	"curlver.h"
+	"curlbuild.h"
+	"curlrules.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+
+1332445850 d:\arableague\arableague\curl\curlver.h
+
+1332445850 d:\arableague\arableague\curl\curlbuild.h
+	<sys/types.h>
+	<sys/socket.h>
+
+1300551434 d:\arableague\arableague\curl\curlrules.h
+
+1320449576 d:\arableague\arableague\curl\easy.h
+
+1300551368 d:\arableague\arableague\curl\multi.h
+	"curl.h"
+
+1331238924 d:\arableague\arableague\curl\typecheck-gcc.h
+
+1335107464 source:g:\arableague\arableague\resources.rc
+
+1335107464 source:d:\arableague\arableague\resources.rc
+
+1335103864 source:e:\backup\documents\programming\arableague\arableague\arableague\resources.rc
+
+1360368063 source:e:\backup\documents\programming\arableague\arableague\arableague\main.cpp
+	<iostream>
+	<windows.h>
+	<winver.h>
+	"curl\curl.h"
+
+1331930456 e:\backup\documents\programming\arableague\arableague\arableague\curl\curl.h
+	"curlver.h"
+	"curlbuild.h"
+	"curlrules.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+
+1332438650 e:\backup\documents\programming\arableague\arableague\arableague\curl\curlver.h
+
+1332438650 e:\backup\documents\programming\arableague\arableague\arableague\curl\curlbuild.h
+	<sys/types.h>
+	<sys/socket.h>
+
+1300544234 e:\backup\documents\programming\arableague\arableague\arableague\curl\curlrules.h
+
+1320442376 e:\backup\documents\programming\arableague\arableague\arableague\curl\easy.h
+
+1300544168 e:\backup\documents\programming\arableague\arableague\arableague\curl\multi.h
+	"curl.h"
+
+1331235324 e:\backup\documents\programming\arableague\arableague\arableague\curl\typecheck-gcc.h
+
